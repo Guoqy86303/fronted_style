@@ -72,6 +72,7 @@ Each style lives in its own numbered folder with a `README.md` and a
 21. 中国水墨风 · Chinese Ink Wash — 墨色层次、山水意象、纸色留白和小面积朱印
 ```
 
+Skill 不负责切换会话模式。用户在 Cursor 中选择 Plan 模式。
 
 ## 选定之后
 
