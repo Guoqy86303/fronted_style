@@ -11,10 +11,11 @@
 
 ## 安装
 
-把 `frontend-style-gallery` 文件夹放到用户 skills 目录，文件夹名保持不变：
+把 `frontend-style-gallery` 文件夹放到 Cursor 的用户 skills 目录，文件夹名保持不变：
 
-`%USERPROFILE%\.*\skills\frontend-style-gallery`
+`%USERPROFILE%\.cursor\skills\frontend-style-gallery`
 
+本机这份已经用目录联接到上面的路径。改仓库里的技能，本机 Agent 读到的是同一份。
 
 ## 使用
 
